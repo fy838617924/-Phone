@@ -39,7 +39,7 @@
         </Grid.RowDefinitions>
         <Grid Background="{DynamicResource ThemeColor}">
             <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="190" />
+                <ColumnDefinition Width="191" />
                 <ColumnDefinition />
                 <ColumnDefinition />
             </Grid.ColumnDefinitions>
